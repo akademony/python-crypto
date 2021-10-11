@@ -2,11 +2,11 @@
 
 **Installation**
 
-1.  Make sure python 3.6+ is installed
+1.  Make sure Python 3.6+ is installed
 
 		 $ sudo apt-get install python3
 
-3.  Make sure git is installed
+3.  Make sure Git is installed
 
 		 $ sudo apt-get update
 		 $ sudo apt-get install git
