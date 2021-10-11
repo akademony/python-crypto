@@ -3,28 +3,31 @@
 **Installation**
 
 1.  Make sure python 3.6+ is installed
-2.  Make sure git is installed (if, not instructions are below)
 
-		$ sudo apt-get update
-		$ sudo apt-get install git
+		 $ sudo apt-get install python3
 
-3. Clone the repository
+3.  Make sure git is installed
 
-		git clone https://github.com/akademony/python-cryptocurrency.git
+		 $ sudo apt-get update
+		 $ sudo apt-get install git
 
-4. Install pipenv
+4. Clone the repository
 
-		apt-get install python3-venv
+		$ git clone https://github.com/akademony/python-cryptocurrency.git
+
+5. Install pipenv
+
+		$ apt-get install python3-venv
 
 6. Create and activate the virtual environment
 
 		$ python3 -m venv venv 
-
+		$ source venv/bin/activate
 	
 7.  Install the requirements
 
-		pip install -r "requirements.txt"
+		 $ pip install -r "requirements.txt"
 
 **Running the file**
 
-1.
+1. 
